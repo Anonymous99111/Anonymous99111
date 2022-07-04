@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Anonymous99111
 - 👀 I’m interested in Cybersecurity.
 - 🌱 I’m currently learning Information System Security.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Anonymous99111/Anonymous99111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
